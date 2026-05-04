@@ -1,0 +1,8 @@
+{
+  "name": "service-b",
+  "version": "1.0.0",
+  "main": "worker.js",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}

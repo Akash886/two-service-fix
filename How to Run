@@ -1,0 +1,5 @@
+Bash
+docker-compose up --build
+
+Expected output:
+service-b | Received: { data: 'Hello from service A' }

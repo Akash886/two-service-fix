@@ -1,0 +1,8 @@
+fix: bind flask to 0.0.0.0
+fix: correct service-to-service URL
+fix: add missing axios dependency
+fix: add docker restart policies
+feat: add env-based configuration
+improve: optimize dockerfiles
+improve: add worker error handling
+docs: add FIXES.md
